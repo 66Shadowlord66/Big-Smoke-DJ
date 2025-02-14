@@ -14,12 +14,12 @@ module.exports = {
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
- {
-      name: "Catfein ID",
-      password: "catfein",
-      host: "lava.catfein.com",
-      port: 4000,
+  { 
+      name: "saher",
+      password: "saher.inzeworld.com",
+      host: "lava.inzeworld.com",
+      port: 3128,
       secure: false
-    },
+    }
   ]
 }
