@@ -15,10 +15,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
  {
-      name: "INZEWORLD.COM (DE)",
-      password: "saher.inzeworld.com",
-      host: "lava.inzeworld.com",
-      port: 3128,
+      name: "Catfein ID",
+      password: "catfein",
+      host: "lava.catfein.com",
+      port: 4000,
       secure: false
     },
   ]
